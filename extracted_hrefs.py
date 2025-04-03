@@ -1,0 +1,13 @@
+result_hrefs = ["https://mrfix.be/mrfix-short.php?shortID=97706037",
+    "https://mrfix.be/mrfix-short.php?shortID=15565070",
+    "https://mrfix.be/mrfix-short.php?shortID=88104964",
+    "https://mrfix.be/mrfix-short.php?shortID=22342240",
+    "https://mrfix.be/mrfix-short.php?shortID=77954019",
+    "https://mrfix.be/mrfix-short.php?shortID=15692105",
+    "https://mrfix.be/mrfix-short.php?shortID=8602596",
+    "https://mrfix.be/mrfix-short.php?shortID=91809167",
+    "https://mrfix.be/mrfix-short.php?shortID=52606322",
+    "https://mrfix.be/mrfix-short.php?shortID=25546795",
+    "https://mrfix.be/mrfix-short.php?shortID=77447814",
+    "https://mrfix.be/mrfix-short.php?shortID=20144192",
+    "https://mrfix.be/mrfix-short.php?shortID=36356937"]
